@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+umr:
+  chineseKey: false
+  namespace: ssp-as-mobile
+  nameserver: http://saos-umr-api.test.k8s.chehejia.com
+spring:
+  application:
+    name: ssp-as-mobile
